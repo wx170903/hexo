@@ -3,7 +3,7 @@ title: greenSock
 date: 2019-03-04 10:02:14
 tags: JS
 categories: js动画
- description: 这是一个很好的动画库，全面的API。
+description: 这是一个很好的动画库，全面的API。
 ---
  个人git仓库有相关包下载，打开终端clone下来
 ````
