@@ -1,9 +1,13 @@
 ---
-title: gulp使用小结j
+title: gulp使用小结
 date: 2018-12-24 11:43:14
-tags: JS
 categories: js工具
+tags: 
+- JS
+- 自动化构建工具
 ---
+一般简单的项目不会用到webpack搭建项目，推荐一下用gulp开发一些做比较简单的项目。
+<!-- more -->
 ### glup安装
 ````
 $ npm install --global gulp-cli
