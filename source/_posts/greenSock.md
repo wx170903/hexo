@@ -1,10 +1,12 @@
 ---
 title: greenSock
 date: 2019-03-04 10:02:14
-tags: JS
 categories: js动画
 description: 这是一个很好的动画库，全面的API。
+tags: 
+- JS动画库
 ---
+<!-- more -->
  个人git仓库有相关包下载，打开终端clone下来
 ````
 指令：git clone https://github.com/wx170903/greensock.git

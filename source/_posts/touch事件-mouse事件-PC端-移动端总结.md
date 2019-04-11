@@ -1,7 +1,7 @@
 ---
 title: touch事件&&mouse事件&&PC端&&移动端总结
 date: 2018-07-12 17:04:01
-categories: JS
+categories: JS工具
 tags: 
 - JS基础事件
 - 触摸

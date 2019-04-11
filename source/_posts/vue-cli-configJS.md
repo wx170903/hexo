@@ -2,6 +2,7 @@
 title: vue-cli(configJS)
 date: 2017-8-11 10:30:12
 categories: JS工具
+description: 了解一下VueJs框架里面一个叫config.js里面的一些参数和作用。
 tags:
 - Vue
 - config.js配置参数

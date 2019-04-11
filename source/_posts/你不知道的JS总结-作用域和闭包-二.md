@@ -1,7 +1,7 @@
 ---
 title: 你不知道的JS总结-作用域和闭包(二)
 date: 2018-02-05 23:10:19
-categories: JS
+categories: JS基础
 tags: 
 - JS
 - 你不知道的JS

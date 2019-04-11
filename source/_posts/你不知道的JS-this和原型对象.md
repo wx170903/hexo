@@ -1,7 +1,7 @@
 ---
 title: 你不知道的JS-this和原型对象
 date: 2018-05-14 15:11:34
-categories: JS
+categories: JS基础
 tags:
 - JS
 - 你不知道的JS

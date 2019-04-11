@@ -2,6 +2,7 @@
 title: 使用RequireJs的好处
 date: 2017-10-31 16:19:26
 categories: JS工具
+description: 初步认识模块化开发的理由。
 tags: 
 - JS
 - 项目优化

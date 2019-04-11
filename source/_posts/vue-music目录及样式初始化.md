@@ -3,6 +3,7 @@ title: vue-music目录及样式初始化
 date: 2017-10-12 11:06:30
 categories: vue-items
 tags: vue-music
+description: 慕课网比较出名的Vue项目的项目结构，也是比较经典的Vue框架，适合中级前端开发工程师看。
 ---
 # 目录初始化
 ## 常用目录

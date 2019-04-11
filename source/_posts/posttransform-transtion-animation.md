@@ -2,6 +2,7 @@
 title: transform/transtion/animation
 date: 2017-02-06 14:50:01
 categories: css3动画属性
+description: 初步css3自带的动画属性。
 tags:
 - css3
 - 动画

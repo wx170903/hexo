@@ -3,6 +3,7 @@ title: NodeJs实战小结
 date: 2018-12-13 15:34:51
 tags: JS
 categories: Node.js
+description: NodeJS，前端模块化开发的基础知识。
 ---
 
 1.1 在本小结中会看到下面这些概念：

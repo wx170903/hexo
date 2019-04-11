@@ -3,8 +3,8 @@ title: babel使用
 date: 2017-10-22 14:47:10
 categories: babel
 tags: 
-- npm
-- babel
+- JS模块
+- ES6
 ---
 [babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md)
 
